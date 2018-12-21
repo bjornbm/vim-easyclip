@@ -1,6 +1,6 @@
 vim-easyclip
 =============
-### Simplified clipboard functionality for Vim.###
+### Simplified clipboard functionality for Vim. ###
 
 Author:  [Steve Vermeulen](https://github.com/svermeulen), based on work by [Max Brunsfeld](http://www.github.com/maxbrunsfeld)
 
